@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Organizing committee"
+title: "Organizing Committee"
 permalink: /committee/
 ---
 
