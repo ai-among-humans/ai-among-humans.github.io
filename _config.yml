@@ -4,7 +4,7 @@ email: cmu-ai-human-society@googlegroups.com
 theme: minima
 # For GitHub Pages project sites, set baseurl to "/repository-name". For user/org sites, use "".
 baseurl: ""
-url: "https://YOUR_USERNAME.github.io"
+url: "https://ai-among-humans.github.io"
 
 # Navigation links
 nav_links:
@@ -12,7 +12,7 @@ nav_links:
     url: "/"
   - title: "Schedule"
     url: "/schedule/"
-  - title: "Organizing committee"
+  - title: "Organizing Committee"
     url: "/committee/"
 
 
