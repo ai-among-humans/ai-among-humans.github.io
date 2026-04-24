@@ -1,0 +1,47 @@
+---
+# Main stylesheet; front matter required for Jekyll to process Sass.
+---
+
+$content-width: 960px;
+
+@import "minima";
+
+.committee-grid {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-unit * 1.5;
+  margin-top: $spacing-unit;
+}
+
+.committee-member {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $spacing-unit;
+  align-items: flex-start;
+
+  img {
+    width: 200px;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 4px;
+    flex-shrink: 0;
+  }
+}
+
+.committee-member__text {
+  flex: 1;
+  min-width: 220px;
+
+  h3 {
+    margin-top: 0;
+  }
+}
+
+.committee-role {
+  color: $grey-color;
+  margin-top: -0.35rem;
+  margin-bottom: 0.5rem;
+  font-size: $small-font-size;
+}

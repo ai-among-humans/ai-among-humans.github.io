@@ -1,0 +1,12 @@
+services:
+  jekyll:
+    # Native arm64 + amd64; actively updated (jekyll/jekyll on Docker Hub is stale)
+    image: bretfisher/jekyll:latest
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll
+    working_dir: /srv/jekyll
+    # Dropbox / Docker mounts: polling avoids flaky file watching
+    command: >
+      sh -c "bundle install --jobs 1 && bundle exec jekyll serve --host 0.0.0.0 --force_polling"

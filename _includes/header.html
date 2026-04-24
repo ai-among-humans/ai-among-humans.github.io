@@ -1,0 +1,13 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    {% if site.nav_links %}
+    <nav class="site-nav">
+      {% for link in site.nav_links %}
+      <a style="padding-left: 10px; padding-right: 10px;" href="{{ link.url | relative_url }}">{{ link.title | escape }}</a>
+      {% endfor %}
+    </nav>
+    {% endif %}
+  </div>
+</header>
+

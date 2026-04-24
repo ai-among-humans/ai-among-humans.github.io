@@ -1,0 +1,22 @@
+title: "AI in a Human Society (CMU)"
+email: cmu-ai-human-society@googlegroups.com
+# description: "A CMU reading group on how artificial intelligence interacts with people, institutions, and society."
+theme: minima
+# For GitHub Pages project sites, set baseurl to "/repository-name". For user/org sites, use "".
+baseurl: ""
+url: "https://YOUR_USERNAME.github.io"
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Schedule"
+    url: "/schedule/"
+  - title: "Organizing committee"
+    url: "/committee/"
+
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
