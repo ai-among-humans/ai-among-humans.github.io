@@ -45,7 +45,7 @@ permalink: /schedule/
             <li><a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB420">(Bonus) SB-420</a></li>
         </ul>
       </td>
-      <td><a href="{{ '/assets/slides/Summer 2026/04_10_reading_group_ca_ai_audits.pdf' | relative_url }}">Slides</a></td>
+      <td><a href="{{ '/assets/slides/Summer 2026/04_24_reading_group_ca_ai_audits.pdf' | relative_url }}">Slides</a></td>
       <td></td>
     </tr>
   </tbody>
