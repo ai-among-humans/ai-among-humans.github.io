@@ -39,11 +39,11 @@ permalink: /committee/
     </div>
   </article>
   <article class="committee-member">
-    <img src="{{ '/assets/committee/placeholder.svg' | relative_url }}" width="200" height="200" alt="Portrait placeholder for committee member" />
+    <img src="{{ '/assets/committee/colefrank.jpg' | relative_url }}" width="200" height="200" alt="Portrait placeholder for committee member" />
     <div class="committee-member__text">
       <h3>Cole Frank</h3>
-      <p class="committee-role">Role or affiliation (optional)</p>
-      <p>Short bio goes here.</p>
+      <p class="committee-role">PhD Student, CMU</p>
+      <p>Cole’s research interests span ML evaluation, privacy, and individual data rights in the generative AI era. His work draws on an interdisciplinary background bridging ML engineering, economics, and public policy.</p>
     </div>
   </article>
   <article class="committee-member">
