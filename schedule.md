@@ -48,5 +48,17 @@ permalink: /schedule/
       <td><a href="{{ '/assets/slides/Summer 2026/04_24_reading_group_ca_ai_audits.pdf' | relative_url }}">Slides</a></td>
       <td></td>
     </tr>
+    <tr>
+      <td>2026-05-08</td>
+      <td>EU AI Act</td>
+      <td>João Gomes Cortes, Michelle Wang</td>
+      <td>
+          <ul>
+            <li><a href="https://artificialintelligenceact.eu/ai-act-explorer/">EU AI Act</a>: Articles 5, 6, 26, 27 and Annex III, specifically the Fundamental Rights Impact Assessment (FRIA)</li>
+          </ul>
+      </td>
+      <td>TBA</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>

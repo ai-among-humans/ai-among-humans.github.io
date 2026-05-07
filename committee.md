@@ -23,11 +23,11 @@ permalink: /committee/
     </div>
   </article>
   <article class="committee-member">
-    <img src="{{ '/assets/committee/placeholder.svg' | relative_url }}" width="200" height="200" alt="Portrait placeholder for committee member" />
+    <img src="{{ '/assets/committee/joaogomescortes.jpg' | relative_url }}" width="200" height="200" alt="Portrait for committee member" />
     <div class="committee-member__text">
       <h3>João Gomes Cortes</h3>
-      <p class="committee-role">Role or affiliation (optional)</p>
-      <p>Short bio goes here.</p>
+      <p class="committee-role">PhD Student, CMU EPP and University of Lisbon</p>
+      <p>João Cortes is currently pursuing his Ph.D in Engineering and Public Policy at Carnegie Mellon University and University of Lisbon. João has begun his PhD in collaboration with the European Commission's Joint Research Centre. His research focuses on Geospatial Transportation Networks and the effects network structures have on air pollution concentration and resource allocation, including their effects on transport poverty. Cortes has worked for 5 years in Data Science for the European Central Bank, Deloitte Technology and the Portuguese Foreign Trade and Investment Agency (AICEP). João has also worked as a policy researcher for the Institute for Public Policy (IPP) and Nova School of Business and Economics where he graduated in Economics with a major in Data Science.</p>
     </div>
   </article>
   <article class="committee-member">
@@ -39,7 +39,7 @@ permalink: /committee/
     </div>
   </article>
   <article class="committee-member">
-    <img src="{{ '/assets/committee/colefrank.jpg' | relative_url }}" width="200" height="200" alt="Portrait placeholder for committee member" />
+    <img src="{{ '/assets/committee/colefrank.jpg' | relative_url }}" width="200" height="200" alt="Portrait for committee member" />
     <div class="committee-member__text">
       <h3>Cole Frank</h3>
       <p class="committee-role">PhD Student, CMU</p>
@@ -47,11 +47,11 @@ permalink: /committee/
     </div>
   </article>
   <article class="committee-member">
-    <img src="{{ '/assets/committee/placeholder.svg' | relative_url }}" width="200" height="200" alt="Portrait placeholder for committee member" />
+    <img src="{{ '/assets/committee/haydenstec.png' | relative_url }}" width="200" height="200" alt="Portrait for committee member" />
     <div class="committee-member__text">
       <h3>Hayden Stec</h3>
-      <p class="committee-role">Role or affiliation (optional)</p>
-      <p>Short bio goes here.</p>
+      <p class="committee-role">Research Programmer, CMU HCII</p>
+      <p>Hayden is a Research Programmer at Carnegie Mellon University’s Human-Computer Interaction Institute, working at the intersection of HCI, machine learning, and the learning sciences. His work focuses on leveraging the differences between human cognition and machine learning to design more effective learning, authoring, and decision-support tools. He supports multiple labs in designing, developing, and deploying human-AI systems in education and supports junior technical and research staff.</p>
     </div>
   </article>
   <article class="committee-member">
@@ -64,7 +64,7 @@ permalink: /committee/
     </div>
   </article>
   <article class="committee-member">
-    <img src="{{ '/assets/committee/placeholder.svg' | relative_url }}" width="200" height="200" alt="Portrait for committee member" />
+    <img src="{{ '/assets/committee/aadyaamaddi.jpg' | relative_url }}" width="200" height="200" alt="Portrait for committee member" />
     <div class="committee-member__text">
       <h3>Aadyaa Maddi</h3>
       <p class="committee-role">PhD Student, CMU ECE</p>
