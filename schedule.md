@@ -70,7 +70,7 @@ permalink: /schedule/
             <li><a href="https://www.law.cornell.edu/uscode/text/17/107">17 U.S. Code § 107 - Limitations on exclusive rights: Fair use</a></li>
             <li><a href="https://www.courtlistener.com/docket/69058235/231/bartz-v-anthropic-pbc/">Bartz v Anthropic</a></li>
             <li><a href="https://www.law.cornell.edu/uscode/text/17">(Bonus) US code on copyright</a></li>
-            <li><a href="https://www.law.cornell.edu/uscode/text/17/101">(Bonus)</a>Legal defs of key terms</li>
+            <li><a href="https://www.law.cornell.edu/uscode/text/17/101">(Bonus) Legal definitions of key terms</a></li>
             <li><a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf">(Bonus) US Copyright Office Report on AI</a></li>
             <li><a href="https://www.courtlistener.com/docket/67569326/598/kadrey-v-meta-platforms-inc/">(Bonus) Kadry v. Meta</a></li>
           </ul>
