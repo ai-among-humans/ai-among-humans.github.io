@@ -57,6 +57,24 @@ permalink: /schedule/
             <li><a href="https://artificialintelligenceact.eu/ai-act-explorer/">EU AI Act</a>: Articles 5, 6, 26, 27 and Annex III, specifically the Fundamental Rights Impact Assessment (FRIA)</li>
           </ul>
       </td>
+      <td><a href="{{ '/assets/slides/Summer 2026/05_08_reading_group_eu_ai_act.pdf' | relative_url }}">Slides</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2026-05-21</td>
+      <td>Copyright & Fair Use</td>
+      <td>Sarah Cen, Melanie Huq</td>
+      <td>
+          <ul>
+            <li><a href="https://www.law.cornell.edu/uscode/text/17/102">17 U.S. Code § 102 - Subject matter of copyright</a></li>
+            <li><a href="https://www.law.cornell.edu/uscode/text/17/107">17 U.S. Code § 107 - Limitations on exclusive rights: Fair use</a></li>
+            <li><a href="https://www.courtlistener.com/docket/69058235/231/bartz-v-anthropic-pbc/">Bartz v Anthropic</a></li>
+            <li><a href="https://www.law.cornell.edu/uscode/text/17">(Bonus) US code on copyright</a></li>
+            <li><a href="https://www.law.cornell.edu/uscode/text/17/101">(Bonus)</a>Legal defs of key terms</li>
+            <li><a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf">(Bonus) US Copyright Office Report on AI</a></li>
+            <li><a href="https://www.courtlistener.com/docket/67569326/598/kadrey-v-meta-platforms-inc/">(Bonus) Kadry v. Meta</a></li>
+          </ul>
+      </td>
       <td>TBA</td>
       <td></td>
     </tr>

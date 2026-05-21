@@ -15,14 +15,6 @@ permalink: /committee/
     </div>
   </article>
   <article class="committee-member">
-    <img src="{{ '/assets/committee/placeholder.svg' | relative_url }}" width="200" height="200" alt="Portrait placeholder for committee member" />
-    <div class="committee-member__text">
-      <h3>Samsara Foubert</h3>
-      <p class="committee-role">Role or affiliation (optional)</p>
-      <p>Short bio goes here.</p>
-    </div>
-  </article>
-  <article class="committee-member">
     <img src="{{ '/assets/committee/joaogomescortes.jpg' | relative_url }}" width="200" height="200" alt="Portrait for committee member" />
     <div class="committee-member__text">
       <h3>João Gomes Cortes</h3>
@@ -33,7 +25,7 @@ permalink: /committee/
   <article class="committee-member">
     <img src="{{ '/assets/committee/placeholder.svg' | relative_url }}" width="200" height="200" alt="Portrait placeholder for committee member" />
     <div class="committee-member__text">
-      <h3>Meryl Ye</h3>
+      <h3>Samsara Foubert</h3>
       <p class="committee-role">Role or affiliation (optional)</p>
       <p>Short bio goes here.</p>
     </div>
@@ -44,14 +36,6 @@ permalink: /committee/
       <h3>Cole Frank</h3>
       <p class="committee-role">PhD Student, CMU</p>
       <p>Cole’s research interests span ML evaluation, privacy, and individual data rights in the generative AI era. His work draws on an interdisciplinary background bridging ML engineering, economics, and public policy.</p>
-    </div>
-  </article>
-  <article class="committee-member">
-    <img src="{{ '/assets/committee/haydenstec.png' | relative_url }}" width="200" height="200" alt="Portrait for committee member" />
-    <div class="committee-member__text">
-      <h3>Hayden Stec</h3>
-      <p class="committee-role">Research Programmer, CMU HCII</p>
-      <p>Hayden is a Research Programmer at Carnegie Mellon University’s Human-Computer Interaction Institute, working at the intersection of HCI, machine learning, and the learning sciences. His work focuses on leveraging the differences between human cognition and machine learning to design more effective learning, authoring, and decision-support tools. He supports multiple labs in designing, developing, and deploying human-AI systems in education and supports junior technical and research staff.</p>
     </div>
   </article>
   <article class="committee-member">
@@ -69,6 +53,22 @@ permalink: /committee/
       <h3>Aadyaa Maddi</h3>
       <p class="committee-role">PhD Student, CMU ECE</p>
       <p>Aadyaa is a first-year PhD student generally interested in data privacy and distributed systems. She is currently exploring how synthetic data can unlock data sharing and analysis opportunities in healthcare systems while protecting patient privacy with formal guarantees.</p>
+    </div>
+  </article>
+  <article class="committee-member">
+    <img src="{{ '/assets/committee/haydenstec.png' | relative_url }}" width="200" height="200" alt="Portrait for committee member" />
+    <div class="committee-member__text">
+      <h3>Hayden Stec</h3>
+      <p class="committee-role">Research Programmer, CMU HCII</p>
+      <p>Hayden is a Research Programmer at Carnegie Mellon University’s Human-Computer Interaction Institute, working at the intersection of HCI, machine learning, and the learning sciences. His work focuses on leveraging the differences between human cognition and machine learning to design more effective learning, authoring, and decision-support tools. He supports multiple labs in designing, developing, and deploying human-AI systems in education and supports junior technical and research staff.</p>
+    </div>
+  </article>
+  <article class="committee-member">
+    <img src="{{ '/assets/committee/merylye.jpg' | relative_url }}" width="200" height="200" alt="Portrait placeholder for committee member" />
+    <div class="committee-member__text">
+      <h3>Meryl Ye</h3>
+      <p class="committee-role">PhD Student, CMU S3D</p>
+      <p>Meryl Ye is a PhD student in S3D. She studies how sociotechnical systems shape human judgment, autonomy, and wellbeing. Her recent work examines how AI systems influence users’ attitudes and decision-making, more specifically how sycophantic AI systems can miscalibrate confidence and beliefs. Meryl also studies the affective use of AI systems. She is interested in participatory design and governance approaches to strengthening AI safety in mental health and care contexts.</p>
     </div>
   </article>
 </div>
