@@ -91,5 +91,19 @@ permalink: /schedule/
       <td>TBA</td>
       <td></td>
     </tr>
+    <tr>
+      <td>2026-06-18</td>
+      <td>AI and Mental Health</td>
+      <td>Jane Hsieh, Aadyaa Maddi</td>
+      <td>
+          <ul>
+            <li><a target="_blank" href="https://leginfo.legislature.ca.gov/faces/billVersionsCompareClient.xhtml?bill_id=202520260SB243&cversion=20250SB24399INT">CA SB 243 (initial and current forms)</a></li>
+            <li><a target="_blank" href="https://ilga.gov/legislation/PublicActs/View/104-0054">IL HB 1806</a></li>
+            <li><a target="_blank" href="https://techjusticelaw.org/wp-content/uploads/2026/03/Garcia-v.-Character-Technologies-Inc.-et-al-Entry-115.pdf">Garcia v. Character.AI: District court decision on motion to dismiss</a></li>
+          </ul>
+      </td>
+      <td><a target="_blank" href="{{ '/assets/slides/Summer 2026/06_18_reading_group_mental_health.pdf' | relative_url }}">Slides</a></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
